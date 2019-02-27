@@ -1,0 +1,36 @@
+.ecran{ 
+margin : auto ;
+border:1px solid black;
+width:472px;
+height:289px;
+background-image:url('tele.png');
+padding:10px;
+}
+.choix{
+	margin : auto ;
+	border:1px solid black;
+	width:350px;
+	height:50px;
+}
+
+td{
+	border: 1px solid green;
+	width:33%;
+	height:25%;
+	overflow:hidden;
+	vertical-align:top;
+}
+.ecrit{
+	height:50%;
+	
+}
+
+#demo,#demo2{
+	color:green;
+}
+
+.final{
+	border: 0px solid black;
+	width:auto;
+	height:auto;
+}

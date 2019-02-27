@@ -1,0 +1,28 @@
+﻿0 |||Oui et toi ? |||ca passe... Mais pas trop pour toi...|Car le jeu commence !
+1 |||Tu es ? |||Qui je suis ? Peu importe|Car le jeu commence !
+2 |||Non... |||Ah ? Desole, mais ca va etre pire...|Car le jeu commence !
+3 ||4||Le jeu ?||5||Quel jeu ?||6||Mais oui...
+4 |||Le jeu ?|||Le jeu ? MON JEU, le jeu de la vie !|Un quiz, un jeu d'enigme fait pour te rendre fou !
+5 |||Quel jeu ?|||Quel jeu ?| Mon jeu pardi, quel autre !|Un quiz, un jeu d'enigme fait pour te rendre fou !
+6 |||Mais oui...|||Tu me crois pas ? Insolent !|subit mon quiz, un jeu d'enigme fait pour te rendre fou !
+7 ||8||Quoi ?||9||Tu es fou ?
+8 |||Quoi ?|||Le jeu commence, et vu que je suis gentil, ça commence facilement...|Convertie moi 37 en binaire.
+9 |||Tu es fou ?|||Le jeu commence, et vu que je suis gentil, ça commence facilement...|Convertie moi 37 en binaire.
+10 |||11
+11 ||100101|||Oh ? pas mal... On peut passer à la suite alors !|||Biiiiip ! Convertie moi 37 en binaire.
+12 ||13||Quoi ? J'ai toujours pas la paix..||14||Ok.. Bon je vais t'ignorer.
+13 |||Quoi ? J'ai toujours pas la paix..|||Bien sur que non ! Aller, je te donne un indice...|192.168.2.1
+14 |||Ok.. Bon je vais t'ignorer.|||Si tu veux mais... tu sais que si j'ai infecté ton ordi|Bah je peux faire plus :) ! Aller, je te donne un indice...|192.168.2.4
+15 ||sandwitch|||Encore ? Je suis fier de toi !|Prochaine question, donne la vitesse de la lumière sous cette forme y*10^z (en m/s)|||C'est mal d'essayer de tricher...192.168.2.1
+16 ||3*10^8|||Bravo ! Tu ne vas pas te faire tuer par ton professeur !|Bonne chance pour trouver le prochain mot de passe|||Comment tu as pu te tromper... dépèche avant de te faire voir... y*10^z
+17 ||m345ef7|||Pas mal... Encore 3 question et tu as la paix !|||Visiblement on y arrive pas ? Tu veux indice ? Regarde le fichier html du site.
+18 ||19||C'est une blague ?||20||Bon... bah au point ou j'en suis.||21||J'aurai une récompense ?
+19 |||C'est une blague ?||| Ravie que cela t'amuse mais... Non|La prochaine question est très simple, quel heure est-il ?
+20 |||Bon... bah au point ou j'en suis |||ça c'est la bonne mentalité ! Tu n'as pas le choix qui plus est|La prochaine question est très simple, quel heure est-il ?
+21 |||J'aurai une récompense ? ||| Bien-sûr, de la fierté !|La prochaine question est très simple, quel heure est-il ?
+22 ||Heure|||Enfin ! on peut passer à la prochaine étape|le mot de passe se trouve a l'adresse 192.168.25.12, configure le routeur.|||Loupppe ! Retente ta chance avec une nouvelle ecriture
+23 ||zrf3p|||La dernière ! La plus compliqué... es-tu prêt ?|||Oh ! Tu as faux, tu peux recommencer :)
+24 ||25||Oui !||26|| oui..?||27||Mouais, pourquoi pas...
+25 |||Oui !|||Ton entousiashme me plait ! Alors... La dernière épreuve... est de me raconter une blague.
+26 |||Oui..?|||Plus deprimant s'il te plait... Fait toi pardonner avec une blague.
+27 |||Mouais, pourquoi pas...|||C'est quoi cette reaction nul ? Bon... pas grave, raconte moi une blague et je te délivre.

@@ -1,0 +1,44 @@
+<html>
+	<head>
+		<title>Bhwaaaa</title>
+		
+		<style type="text/css">
+			input {
+			  width:50px;
+			}
+		</style>
+		<script type="text/javascript">
+			function test(){
+					var xhttp = new XMLHttpRequest();
+					xhttp.onreadystatechange = function() {
+					if (xhttp.readyState == 4 && xhttp.status == 200) {
+						$c=xhttp.responseText.split("|");
+						$renvoi="";
+						for($i=0;$i<4;$i++){
+							if($c[$i]==document.getElementsByName("a")[$i].value){
+								$renvoi=$renvoi+"clic ";
+							}
+						}
+						if($renvoi=="clic clic clic clic "){
+							alert($c[4]);
+						}else{
+							alert($renvoi);
+						}
+					}
+				}
+	xhttp.open("GET", "dialogue/2u.txt", true);
+	xhttp.send(); // Envoi de la requête
+			}
+		</script>
+	</head>
+	<body>
+		<p>Bravo ! Tu es arrivé là ! Maintenant... Trouve LE code secret de MON coffre muahahaha (tester de 0 à 9)</p>
+		
+		<input type="number" name="a">
+		<input type="number" name="a">
+		<input type="number" name="a">
+		<input type="number" name="a">
+		</br></br>
+		<input type="button" onclick="test();" value="tester">
+	</body>
+</html>

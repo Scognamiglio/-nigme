@@ -1,0 +1,32 @@
+<html>
+	<head>
+		<title>Bhwaaaa</title>
+		
+		<style type="text/css">
+			input {
+			  width:50px;
+			}
+		</style>
+		<script type="text/javascript">
+			function test($b){
+			if($b="run"){
+					var xhttp = new XMLHttpRequest();
+					xhttp.onreadystatechange = function() {
+					if (xhttp.readyState == 4 && xhttp.status == 200) {
+						$c=xhttp.responseText;
+						
+						
+						alert($c);
+						
+					}
+				}
+	xhttp.open("GET", "dialogue/3u.txt", true);
+	xhttp.send(); // Envoi de la requête
+				}
+			}
+		</script>
+	</head>
+	<body>
+		<p>la variable $c dans la fonction test renvoi le mot de passe. Bonne chance.</p>
+	</body>
+</html>
